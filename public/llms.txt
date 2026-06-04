@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: thehilao@gmail.com
+- Phone: 055-3389712
+- Phone (tel): tel:0553389712
+- Address: הרב אלישיב 3 טבריה, טבריה, ישראל
 
 ### Contact form
 - URL: https://example.com/contact

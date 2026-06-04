@@ -417,11 +417,11 @@ Description: מערכות אוטומציה חכמות לניהול לידים ב
 #### צור קשר
 
 
-- [business_email]
+- thehilao@gmail.com
 
-- [business_phone]
+- 055-3389712
 
-- [business_address]
+- הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -854,11 +854,11 @@ Description: פתרונות אוטומציה מקצה לקצה: מבוט ווא�
 #### צור קשר
 
 
-- [business_email]
+- thehilao@gmail.com
 
-- [business_phone]
+- 055-3389712
 
-- [business_address]
+- הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -1197,11 +1197,11 @@ Description: בבאייב תהילה נולדה מתוך ניהול שטח במ�
 #### צור קשר
 
 
-- [business_email]
+- thehilao@gmail.com
 
-- [business_phone]
+- 055-3389712
 
-- [business_address]
+- הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -1480,7 +1480,7 @@ Description: מוכנים למלא את החדרים בקלות? צרו קשר �
 
 
 כתובת המשרד
-[business_address]
+הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -1510,8 +1510,7 @@ Description: מוכנים למלא את החדרים בקלות? צרו קשר �
 
 
 שלחו לנו הודעה
-
-
+הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -1617,11 +1616,11 @@ Description: מוכנים למלא את החדרים בקלות? צרו קשר �
 #### צור קשר
 
 
-- [business_email]
+- thehilao@gmail.com
 
-- [business_phone]
+- 055-3389712
 
-- [business_address]
+- הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -1945,11 +1944,11 @@ thehilao@gmail.com
 #### צור קשר
 
 
-- [business_email]
+- thehilao@gmail.com
 
-- [business_phone]
+- 055-3389712
 
-- [business_address]
+- הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -2155,11 +2154,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - חברה: בבאייב תהילה
 
-- אימייל: [business_email]
+- אימייל: thehilao@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 055-3389712
 
-- כתובת: [business_address]
+- כתובת: הרב אלישיב 3 טבריה, ישראל
 
 
 
@@ -2203,11 +2202,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 #### צור קשר
 
 
-- [business_email]
+- thehilao@gmail.com
 
-- [business_phone]
+- 055-3389712
 
-- [business_address]
+- הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -2421,9 +2420,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - חברה: בבאייב תהילה
 
-- אימייל: [business_email]
+- אימייל: thehilao@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 055-3389712
 
 
 
@@ -2470,11 +2469,11 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 #### צור קשר
 
 
-- [business_email]
+- thehilao@gmail.com
 
-- [business_phone]
+- 055-3389712
 
-- [business_address]
+- הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
@@ -2711,11 +2710,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - חברה: בבאייב תהילה
 
-- אימייל: [business_email]
+- אימייל: thehilao@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 055-3389712
 
-- כתובת: [business_address]
+- כתובת: הרב אלישיב 3 טבריה, ישראל
 
 
 
@@ -2756,11 +2755,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 #### צור קשר
 
 
-- [business_email]
+- thehilao@gmail.com
 
-- [business_phone]
+- 055-3389712
 
-- [business_address]
+- הרב אלישיב 3 טבריה, טבריה, ישראל
 
 
 
