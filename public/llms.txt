@@ -1,0 +1,88 @@
+# בבאייב תהילה — Generative Engine Optimization Map
+
+> Babyev Tehila is a B2B technology venture specializing in advanced automation and intelligent lead routing solutions for hospitality and resort businesses. Born from deep field experience in hospitality management, the company builds and integrates smart automation pipelines using platforms like Make and Airtable to ensure zero lead loss and maximum booking occupancy. Their offering spans real-time lead capture and routing, CRM acceleration, and custom bots for WhatsApp-based booking confirmations and status updates — all aimed at dramatically improving deal-closing rates for leisure and hospitality operators.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מערכות אוטומציה חכמות לניהול לידים בענף האירוח. תפיסת לידים בזמן אמת, ניתוב חכם וסגירת עסקאות מהירה עם airtable for marketing וכלים מתקדמים. גלו איך מפסיקים לאבד לידים וממלאים חדרים עוד היום!
+
+### פתרונות
+https://example.com/solutions
+פתרונות אוטומציה מקצה לקצה: מבוט וואטסאפ לאישורי הזמנות ועד סנכרון airtable to google sheets. האצת CRM, ניתוב לידים חכם ואפס אובדן הזדמנויות. בואו לראות איך הטכנולוגיה שלנו סוגרת יותר עסקאות בענף הפנאי.
+
+### אודות
+https://example.com/about
+בבאייב תהילה נולדה מתוך ניהול שטח במלונאות כדי לפתור את כאב אובדן הלידים. אנחנו בונים צינורות אוטומציה עם zapier and airtable שמבטיחים תפוסה מלאה. הכירו את ה-DNA שמאחורי הטכנולוגיה שמשנה את כללי המשחק.
+
+### צור קשר
+https://example.com/contact
+מוכנים למלא את החדרים בקלות? צרו קשר עוד היום לשיחת אסטרטגיה חינמית. ננתח את cost of airtable עבור העסק שלכם ונתפור לכם מערכת אוטומציה שתתחיל לעבוד מיד. אל תתנו לליד הבא לברוח!
+
+### מדיניות פרטיות
+https://example.com/privacy-policy
+שקיפות מלאה היא ערך עליון אצלנו. קראו כיצד בבאייב תהילה אוספת, מנהלת ושומרת על המידע שלכם תוך שימוש בכלים כמו airtable for marketing. כי האמון שלכם הוא המנוע של הטכנולוגיה שלנו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בבאייב תהילה
+Babyev Tehila is a B2B technology venture specializing in advanced automation and intelligent lead routing solutions for hospitality and resort businesses. Born from deep field experience in hospitality management, the company builds and integrates smart automation pipelines using platforms like Make and Airtable to ensure zero lead loss and maximum booking occupancy. Their offering spans real-time lead capture and routing, CRM acceleration, and custom bots for WhatsApp-based booking confirmations and status updates — all aimed at dramatically improving deal-closing rates for leisure and hospitality operators.
+
+## Services/Products
+- אוטומציה מלאה וניתוב חכם של לידים (Make, Airtable)
+- ניהול קשרי לקוחות וקיצור זמני תגובה
+- פיתוח בוטים ומערכות הודעות מתקדמות לעסקים
+
+## Target Audience
+- בעלי עסקים ומתחמי נופש ואירוח
+- בעלי עסקים קטנים ובינוניים
+- מנהלי מתחמי נופש ואירוח
+- יזמי מסחר אלקטרוני
+
+## Industry
+Marketing Automation & Lead Management Technology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
