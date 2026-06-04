@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://babaievtehila.zappy5.app
 מערכות אוטומציה חכמות לניהול לידים בענף האירוח. תפיסת לידים בזמן אמת, ניתוב חכם וסגירת עסקאות מהירה עם airtable for marketing וכלים מתקדמים. גלו איך מפסיקים לאבד לידים וממלאים חדרים עוד היום!
 
 ### פתרונות
-https://example.com/solutions
+https://babaievtehila.zappy5.app/solutions
 פתרונות אוטומציה מקצה לקצה: מבוט וואטסאפ לאישורי הזמנות ועד סנכרון airtable to google sheets. האצת CRM, ניתוב לידים חכם ואפס אובדן הזדמנויות. בואו לראות איך הטכנולוגיה שלנו סוגרת יותר עסקאות בענף הפנאי.
 
 ### אודות
-https://example.com/about
+https://babaievtehila.zappy5.app/about
 בבאייב תהילה נולדה מתוך ניהול שטח במלונאות כדי לפתור את כאב אובדן הלידים. אנחנו בונים צינורות אוטומציה עם zapier and airtable שמבטיחים תפוסה מלאה. הכירו את ה-DNA שמאחורי הטכנולוגיה שמשנה את כללי המשחק.
 
 ### צור קשר
-https://example.com/contact
+https://babaievtehila.zappy5.app/contact
 מוכנים למלא את החדרים בקלות? צרו קשר עוד היום לשיחת אסטרטגיה חינמית. ננתח את cost of airtable עבור העסק שלכם ונתפור לכם מערכת אוטומציה שתתחיל לעבוד מיד. אל תתנו לליד הבא לברוח!
 
 ### מדיניות פרטיות
-https://example.com/privacy-policy
+https://babaievtehila.zappy5.app/privacy-policy
 שקיפות מלאה היא ערך עליון אצלנו. קראו כיצד בבאייב תהילה אוספת, מנהלת ושומרת על המידע שלכם תוך שימוש בכלים כמו airtable for marketing. כי האמון שלכם הוא המנוע של הטכנולוגיה שלנו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://babaievtehila.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://babaievtehila.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://babaievtehila.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,8 +50,8 @@ Information about WCAG compliance and accessibility features.
 - Address: הרב אלישיב 3 טבריה, טבריה, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://babaievtehila.zappy5.app/contact
+- Endpoint: https://babaievtehila.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -86,6 +86,6 @@ Marketing Automation & Lead Management Technology
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://babaievtehila.zappy5.app/sitemap.xml
+- Robots: https://babaievtehila.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://babaievtehila.zappy5.app/llms-full.txt

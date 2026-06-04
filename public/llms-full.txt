@@ -2,13 +2,13 @@
 
 Babyev Tehila is a B2B technology venture specializing in advanced automation and intelligent lead routing solutions for hospitality and resort businesses. Born from deep field experience in hospitality management, the company builds and integrates smart automation pipelines using platforms like Make and Airtable to ensure zero lead loss and maximum booking occupancy. Their offering spans real-time lead capture and routing, CRM acceleration, and custom bots for WhatsApp-based booking confirmations and status updates — all aimed at dramatically improving deal-closing rates for leisure and hospitality operators.
 
-Source: https://example.com
+Source: https://babaievtehila.zappy5.app
 
 ---
 
 ## אוטומציה שיווקית שמכפילה תפוסה — בבאייב תהילה
 
-URL: https://example.com
+URL: https://babaievtehila.zappy5.app
 Description: מערכות אוטומציה חכמות לניהול לידים בענף האירוח. תפיסת לידים בזמן אמת, ניתוב חכם וסגירת עסקאות מהירה עם airtable for marketing וכלים מתקדמים. גלו איך מפסיקים לאבד לידים וממלאים חדרים עוד היום!
 
 אוטומציה שיווקית שמכפילה תפוסה — בבאייב תהילה
@@ -470,7 +470,7 @@ Description: מערכות אוטומציה חכמות לניהול לידים ב
 
 ## מליד ריק לחדר מלא — הפתרונות שלנו — בבאייב תהילה
 
-URL: https://example.com/solutions
+URL: https://babaievtehila.zappy5.app/solutions
 Description: פתרונות אוטומציה מקצה לקצה: מבוט וואטסאפ לאישורי הזמנות ועד סנכרון airtable to google sheets. האצת CRM, ניתוב לידים חכם ואפס אובדן הזדמנויות. בואו לראות איך הטכנולוגיה שלנו סוגרת יותר עסקאות בענף הפנאי.
 
 מליד ריק לחדר מלא — הפתרונות שלנו — בבאייב תהילה
@@ -907,7 +907,7 @@ Description: פתרונות אוטומציה מקצה לקצה: מבוט ווא�
 
 ## מניסיון בשטח למהפכת אוטומציה — אודות — בבאייב תהילה
 
-URL: https://example.com/about
+URL: https://babaievtehila.zappy5.app/about
 Description: בבאייב תהילה נולדה מתוך ניהול שטח במלונאות כדי לפתור את כאב אובדן הלידים. אנחנו בונים צינורות אוטומציה עם zapier and airtable שמבטיחים תפוסה מלאה. הכירו את ה-DNA שמאחורי הטכנולוגיה שמשנה את כללי המשחק.
 
 מניסיון בשטח למהפכת אוטומציה — אודות — בבאייב תהילה
@@ -1250,7 +1250,7 @@ Description: בבאייב תהילה נולדה מתוך ניהול שטח במ�
 
 ## תפסיקו לאבד לידים, תתחילו לסגור — צור קשר — בבאייב תהילה
 
-URL: https://example.com/contact
+URL: https://babaievtehila.zappy5.app/contact
 Description: מוכנים למלא את החדרים בקלות? צרו קשר עוד היום לשיחת אסטרטגיה חינמית. ננתח את cost of airtable עבור העסק שלכם ונתפור לכם מערכת אוטומציה שתתחיל לעבוד מיד. אל תתנו לליד הבא לברוח!
 
 תפסיקו לאבד לידים, תתחילו לסגור — צור קשר — בבאייב תהילה
@@ -1669,7 +1669,7 @@ Description: מוכנים למלא את החדרים בקלות? צרו קשר �
 
 ## פרטיות היא חלק מהאוטומציה — מדיניות פרטיות — בבאייב תהילה
 
-URL: https://example.com/privacy-policy
+URL: https://babaievtehila.zappy5.app/privacy-policy
 Description: שקיפות מלאה היא ערך עליון אצלנו. קראו כיצד בבאייב תהילה אוספת, מנהלת ושומרת על המידע שלכם תוך שימוש בכלים כמו airtable for marketing. כי האמון שלכם הוא המנוע של הטכנולוגיה שלנו.
 
 פרטיות היא חלק מהאוטומציה — מדיניות פרטיות — בבאייב תהילה
@@ -1997,7 +1997,7 @@ thehilao@gmail.com
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://babaievtehila.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2255,7 +2255,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://babaievtehila.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2522,7 +2522,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://babaievtehila.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
